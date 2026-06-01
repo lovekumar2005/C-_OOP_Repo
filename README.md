@@ -1,4 +1,4 @@
-# BBIT Semester 3 - C++ Programming Course Work
+# BBIT Semester 3 - C++ OOP Course Work
 
 This course was completed under the guidance of **Mr. Hassan Khan** during the 3rd semester of the **BBIT (Bachelor in Business and IT)** degree program.
 
