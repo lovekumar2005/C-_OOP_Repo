@@ -46,6 +46,3 @@ This repository serves as a complete record of my learning journey in C++ progra
 
 ---
 
-
-## 📌 Note
-All code is written for learning purposes and academic practice.
